@@ -1,0 +1,116 @@
+{
+    "products": {
+      "Lays Classic Chips": {
+        "id": "2001",
+        "brand": "Lays",
+        "barcode": "028400040065",
+        "ingredients": ["Potatoes", "Vegetable Oil", "Salt"],
+        "additives": ["MSG", "TBHQ"],
+        "pesticide_risk": "High",
+        "rating": 3.5,
+        "eco_friendly": false
+      },
+      "Coca-Cola": {
+        "id": "2002",
+        "brand": "Coca-Cola",
+        "barcode": "049000050103",
+        "ingredients": ["Carbonated Water", "High Fructose Corn Syrup", "Caramel Color", "Phosphoric Acid", "Caffeine"],
+        "additives": ["Aspartame", "Sodium Benzoate"],
+        "pesticide_risk": "Medium",
+        "rating": 3.8,
+        "eco_friendly": false
+      },
+      "Pepsi": {
+        "id": "2003",
+        "brand": "Pepsi",
+        "barcode": "012000809968",
+        "ingredients": ["Carbonated Water", "High Fructose Corn Syrup", "Caramel Color", "Phosphoric Acid", "Caffeine"],
+        "additives": ["Aspartame", "Sodium Benzoate"],
+        "pesticide_risk": "Medium",
+        "rating": 3.7,
+        "eco_friendly": false
+      },
+      "Dairy Milk Chocolate": {
+        "id": "2004",
+        "brand": "Cadbury",
+        "barcode": "7622300443010",
+        "ingredients": ["Milk", "Sugar", "Cocoa Butter", "Cocoa Mass", "Vegetable Fats"],
+        "additives": ["Soy Lecithin"],
+        "pesticide_risk": "Low",
+        "rating": 4.6,
+        "eco_friendly": true
+      },
+      "Sprite": {
+        "id": "2005",
+        "brand": "Sprite",
+        "barcode": "049000028901",
+        "ingredients": ["Carbonated Water", "High Fructose Corn Syrup", "Citric Acid", "Natural Flavors", "Sodium Citrate"],
+        "additives": ["Sodium Benzoate"],
+        "pesticide_risk": "Medium",
+        "rating": 4.0,
+        "eco_friendly": false
+      },
+      "Oreo Biscuits": {
+        "id": "2006",
+        "brand": "Oreo",
+        "barcode": "044000000393",
+        "ingredients": ["Sugar", "Unbleached Enriched Flour", "Palm Oil", "Cocoa", "High Fructose Corn Syrup"],
+        "additives": ["Artificial Flavor", "Lecithin"],
+        "pesticide_risk": "High",
+        "rating": 3.9,
+        "eco_friendly": false
+      },
+      "Organic Almond Milk": {
+      "id": "1001",
+      "brand": "PureHarvest",
+      "barcode": "9312231234567",
+      "ingredients": ["Water", "Almonds", "Sea Salt"],
+      "additives": [],
+      "pesticide_risk": "Low",
+      "rating": 4.8,
+      "eco_friendly": true
+    },
+    "Whole Wheat Bread": {
+      "id": "1002",
+      "brand": "Nature’s Best",
+      "barcode": "8901234567890",
+      "ingredients": ["Whole Wheat Flour", "Yeast", "Salt"],
+      "additives": ["Calcium Propionate"],
+      "pesticide_risk": "Medium",
+      "rating": 4.5,
+      "eco_friendly": true
+    },
+    "Strawberry Yogurt": {
+      "id": "1003",
+      "brand": "Dairy Delight",
+      "barcode": "9786543210123",
+      "ingredients": ["Milk", "Strawberries", "Sugar", "Pectin"],
+      "additives": ["Artificial Flavor", "Carrageenan"],
+      "pesticide_risk": "High",
+      "rating": 3.9,
+      "eco_friendly": false
+    },
+    "Potato Chips": {
+      "id": "1004",
+      "brand": "Crunchy Bites",
+      "barcode": "5678901234567",
+      "ingredients": ["Potatoes", "Vegetable Oil", "Salt"],
+      "additives": ["MSG", "TBHQ"],
+      "pesticide_risk": "High",
+      "rating": 3.5,
+      "eco_friendly": false
+    },
+    "Dark Chocolate": {
+      "id": "1005",
+      "brand": "Choco Bliss",
+      "barcode": "1234509876543",
+      "ingredients": ["Cocoa Mass", "Cocoa Butter", "Sugar"],
+      "additives": [],
+      "pesticide_risk": "Low",
+      "rating": 4.9,
+      "eco_friendly": true
+    }
+      
+    }
+  }
+  
