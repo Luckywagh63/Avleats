@@ -11,7 +11,7 @@ CORS(app)  # Allow frontend to communicate with backend
 # Set up Gemini API
 API_KEY = os.getenv("GEMINI_API_KEY")  # Set this in your environment
 if not API_KEY:
-    API_KEY = "AIzaSyDTRqC8B1DIsVePWDN068eGcPcBGc-bUkg"  # Replace this with your actual API key
+    API_KEY = "1234567890"  # Replace this with your actual API key
 
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel("gemini-1.5-pro")
